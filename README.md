@@ -3,8 +3,8 @@
 Welcome to my GitHub page, feel free to look around!
 
 ### About Me:
-- Recent Computer Science & Software Engineering Graduate
-- Primary Interest: Backend Development
-- Highly Skilled in: C++, C, Java
-- Familiar With: JavaScript, SQLite
-- Hobbies: Coding, PC Building, Mechanical Keyboards, Audiophile
+- :mortar_board: Recent Computer Science & Software Engineering Graduate 
+- :desktop_computer: Primary Interest: Backend Development 
+- :crown: Highly Skilled in: C++, C, Java 
+- :gem: Familiar With: JavaScript, SQLite 
+- :video_game: Hobbies: Coding, PC Building, Mechanical Keyboards
