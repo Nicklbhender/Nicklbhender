@@ -3,8 +3,8 @@
 Welcome to my GitHub page, feel free to look around!
 
 ### About Me:
-- :mortar_board: Recent Computer Science & Software Engineering Graduate 
+- :mortar_board: Software Engineer at TCS-Microsoft
 - :desktop_computer: Primary Interest: Backend Development 
-- :crown: Highly Skilled in: C++, C, Java 
-- :gem: Familiar With: JavaScript, SQL/SQLite/mySQL 
-- :video_game: Hobbies: Coding, PC Building, Mechanical Keyboards
+- :crown: Highly Skilled in: C++, C, Java, SQL
+- :gem: Familiar With: JavaScript, C#
+- :video_game: Hobbies: Coding, Video Games, PC Building, Mechanical Keyboards
